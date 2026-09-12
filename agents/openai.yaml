@@ -1,0 +1,7 @@
+interface:
+  display_name: "GitHub 安全自动发布"
+  short_description: "验证、隐私扫描、精确提交并确认 GitHub 远端版本"
+  default_prompt: "使用 $github-auto-publisher 安全发布当前项目已完成的版本更新，并确认 GitHub 远端提交。"
+
+policy:
+  allow_implicit_invocation: true
