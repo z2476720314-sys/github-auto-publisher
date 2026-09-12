@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Validate the packaged Skill metadata without relying on a local Codex install."""
 
 from __future__ import annotations

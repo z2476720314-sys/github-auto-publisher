@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Safely commit an exact local version-update scope and verify one GitHub push."""
 
 from __future__ import annotations

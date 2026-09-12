@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1 - 2026-09-12
+
+- Removed non-executable shebangs so Linux Ruff validation matches the documented `python ...` invocation.
+
 ## 1.0.0 - 2026-09-12
 
 - Added exact-scope version publication with plan and publish modes.
